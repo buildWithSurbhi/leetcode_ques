@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0130-surrounded-regions) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->

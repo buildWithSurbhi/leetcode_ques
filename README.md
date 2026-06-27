@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0133-clone-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0133-clone-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -35,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0131-palindrome-partitioning) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->

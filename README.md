@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0137-single-number-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0135-candy) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->

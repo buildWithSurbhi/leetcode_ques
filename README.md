@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0138-copy-list-with-random-pointer) |
 ## Graph Theory
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0137-single-number-ii) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->

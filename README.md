@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0139-word-break) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0139-word-break) |
 ## Graph Theory
 |  |
 | ------- |
@@ -62,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0138-copy-list-with-random-pointer) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

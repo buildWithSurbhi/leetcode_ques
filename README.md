@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0149-max-points-on-a-line) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0149-max-points-on-a-line) |
 ## Graph Theory
 |  |
 | ------- |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0149-max-points-on-a-line) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->

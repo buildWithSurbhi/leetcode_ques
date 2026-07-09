@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Geometry
 |  |
 | ------- |

@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0166-fraction-to-recurring-decimal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0166-fraction-to-recurring-decimal) |
 ## Graph Theory
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0166-fraction-to-recurring-decimal) |
 ## Geometry
 |  |
 | ------- |

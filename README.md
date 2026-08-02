@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
 ## Graph Theory
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
 ## Linked List
 |  |
 | ------- |
@@ -202,4 +205,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0185-department-top-three-salaries) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->

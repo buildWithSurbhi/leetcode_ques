@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0189-rotate-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0189-rotate-array) |
 ## Stack
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0189-rotate-array) |
 ## Geometry
 |  |
 | ------- |

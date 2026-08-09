@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0198-house-robber) |
+| [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0198-house-robber) |
+| [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0189-rotate-array) |
+| [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -228,4 +231,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->

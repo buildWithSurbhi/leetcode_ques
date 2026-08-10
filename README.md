@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0200-number-of-islands) |
 | [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Depth-First Search
 |  |
@@ -29,21 +30,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0204-count-primes) |
 | [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Depth-First Search
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0204-count-primes) |
 | [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Geometry
 |  |
@@ -252,4 +254,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

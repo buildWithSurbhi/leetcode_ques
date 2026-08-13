@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0207-course-schedule) |
 ## Union-Find
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0207-course-schedule) |
 ## Greedy
 |  |
 | ------- |
@@ -275,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0204-count-primes) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

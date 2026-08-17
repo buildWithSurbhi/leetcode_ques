@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0212-word-search-ii) |
 | [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Depth-First Search
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0212-word-search-ii) |
 ## String
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0212-word-search-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0212-word-search-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |

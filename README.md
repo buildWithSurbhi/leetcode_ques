@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0216-combination-sum-iii) |
+| [0218-the-skyline-problem](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0218-the-skyline-problem) |
 | [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Depth-First Search
 |  |
@@ -191,11 +192,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0218-the-skyline-problem) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0218-the-skyline-problem) |
 ## Merge Sort
 |  |
 | ------- |
@@ -337,8 +340,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0218-the-skyline-problem) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->

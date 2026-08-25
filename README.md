@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0221-maximal-square) |
 | [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Depth-First Search
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0221-maximal-square) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0221-maximal-square) |
 | [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Backtracking
 |  |

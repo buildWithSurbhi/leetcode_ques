@@ -217,11 +217,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0223-rectangle-area) |
 | [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Geometry
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0223-rectangle-area) |
 ## Binary Search
 |  |
 | ------- |

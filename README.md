@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0214-shortest-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0227-basic-calculator-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0173-binary-search-tree-iterator) |
+| [0227-basic-calculator-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0227-basic-calculator-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0223-rectangle-area) |
+| [0227-basic-calculator-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0227-basic-calculator-ii) |
 | [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Geometry
 |  |

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0228-summary-ranges) |
 | [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Depth-First Search
 |  |

@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0229-majority-element-ii) |
 | [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Depth-First Search
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0229-majority-element-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -375,4 +378,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0220-contains-duplicate-iii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

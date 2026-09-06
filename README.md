@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0231-power-of-two) |
 ## Design
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0231-power-of-two) |
 | [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Geometry
 |  |

@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0232-implement-queue-using-stacks) |
 ## Recursion
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0232-implement-queue-using-stacks](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -393,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0229-majority-element-ii) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

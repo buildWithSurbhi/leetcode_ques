@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -181,12 +183,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |

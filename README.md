@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0237-delete-node-in-a-linked-list) |
 ## Trie
 |  |
 | ------- |

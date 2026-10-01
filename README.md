@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Depth-First Search
 |  |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -426,4 +430,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

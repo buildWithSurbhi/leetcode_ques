@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0242-valid-anagram) |
 ## Graph Theory
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |

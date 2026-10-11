@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0260-single-number-iii) |
 | [1140-stone-game-ii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/1140-stone-game-ii) |
 ## Depth-First Search
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/buildWithSurbhi/leetcode_ques/tree/master/0260-single-number-iii) |
 ## Linked List
 |  |
 | ------- |
